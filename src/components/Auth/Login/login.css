@@ -1,0 +1,13 @@
+.login_form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 400px;
+}
+
+.reg_link {
+    /* text-decoration: underline; */
+    color: blue;
+    cursor: pointer;
+}

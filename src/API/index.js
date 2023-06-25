@@ -1,0 +1,2 @@
+ export const GET_USERS = `https://us-east-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/store_users-vaswe/service/post_store_users/incoming_webhook/get_users?secret=get_users`
+ export const POST_USERS = `https://us-east-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/store_users-vaswe/service/post_store_users/incoming_webhook/post_users?secret=post_users`
